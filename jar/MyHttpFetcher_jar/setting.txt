@@ -1,0 +1,3 @@
+#10#                                            //每次刷新间隔时间（period），n秒
+#d:\Temp\MyHttpFetcher_jar\productlist.txt#     //所有个债个股代码文件所在路径（productFilePath）
+#d:\Temp\MyHttpFetcher_jar\sound\645.wav#       //播放音乐文件所在路径（musicFilePath）
